@@ -6,3 +6,4 @@ text 4 from feature branch
 text 3 in main branch
 text 5 from feature branch
 text 6 from feature branch
+text 7 from feature branch
