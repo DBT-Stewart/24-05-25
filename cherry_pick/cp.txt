@@ -3,3 +3,4 @@ text 2 in main branch
 text 2 from feature branch
 text 3 from feature branch
 text 4 from feature branch
+text 3 in main branch
