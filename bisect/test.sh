@@ -1,1 +1,1 @@
-text 4
+echo 3
