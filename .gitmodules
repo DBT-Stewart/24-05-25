@@ -1,0 +1,3 @@
+[submodule "libs/my-lib"]
+	path = libs/my-lib
+	url = ../Library
